@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mhmdrfx/mhmdrfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Mohammed Alahmary
 
-Here are some ideas to get you started:
+**IT Professional | Network Systems & Offensive Security**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m9ebah&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/m9ebah?color=blueviolet&style=flat-square&logo=github" alt="Followers" />
+</p>
+
+</div>
+
+---
+
+### 💻 About Me
+
+> *“Great technology comes from understanding both how to build it and how to break it.”*
+
+I’m an IT professional specializing in **network systems management** and **penetration testing**. My work spans across infrastructure administration, network security, and offensive security, where I focus on building, managing, and securing reliable systems. Currently sharpening my skills in development, infrastructure, and offensive security — always learning, always shipping.
+
+---
+
+### 🛠️ Core Stack & Tools
+
+- **Systems & Networking:** Network Architecture, Infrastructure Administration, Windows Core APIs
+- **Security & Pentesting:** Offensive Security, Network Security Assessment
+- **Languages & Development:** C# (.NET 11), Python, PowerShell, CLI Architecture
+- **Environment & Version Control:** Linux, Windows, Git & GitHub, Docker
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m9ebah&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
