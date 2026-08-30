@@ -33,5 +33,5 @@ I’m an IT professional specializing in **network systems management** and **pe
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m9ebah&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmdrfx&show_icons=true" alt="GitHub Stats" />
 </p>
